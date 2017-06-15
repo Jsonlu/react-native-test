@@ -1,6 +1,6 @@
-## 开发调试
+### Develop
 	react-native run-android
 	
-## 打包
+### Package Release Version
 	./trans.sh
 	cd android && gradle :app:assembleRelease
